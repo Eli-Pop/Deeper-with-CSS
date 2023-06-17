@@ -1,2 +1,1 @@
-# Deeper-with-CSS
-4.1.4 Assessment: Pete Thinkful 2
+# starter-pete-thinkful-portfolio
